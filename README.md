@@ -8,67 +8,67 @@ Pack version numbers coincide with format numbers for ease of tracking. Snapshot
 
 The blocks this pack affects are:
 
-bedrock
+- bedrock
 
-black concrete powder
+- black concrete powder
 
-blue concrete powder
+- blue concrete powder
 
-brown concrete powder
+- brown concrete powder
 
-cyan concrete powder
+- cyan concrete powder
 
-deepslate
+- deepslate
 
-dirt
+- dirt
 
-dirt path
+- dirt path
 
-grass block
+- grass block
 
-gray concrete powder
+- gray concrete powder
 
-green concrete powder
+- green concrete powder
 
-infested deepslate
+- infested deepslate
 
-infested stone
+- infested stone
 
-light blue concrete powder
+- light blue concrete powder
 
-light gray concrete powder
+- light gray concrete powder
 
-lime concrete powder
+- lime concrete powder
 
-magenta concrete powder
+- magenta concrete powder
 
-mycelium
+- mycelium
 
-netherrack
+- netherrack
 
-orange concrete powder
+- orange concrete powder
 
-pink concrete powder
+- pink concrete powder
 
-podzol
+- -podzol
 
-purple concrete powder
+- purple concrete powder
 
-red concrete powder
+- red concrete powder
 
-red sand
+- red sand
 
-rooted dirt
+- rooted dirt
 
-sand
+- sand
 
-sculk
+- sculk
 
-stone
+- stone
 
-white concrete powder
+- white concrete powder
 
-yellow concrete powder
+- yellow concrete powder
 
 # Blocks before Random Texture Changes:
 ![image](https://github.com/DrBotz/xRotation/assets/99992836/3d0b78b6-511c-4675-ab1c-099bbbd0b0a0)
