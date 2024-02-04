@@ -70,6 +70,8 @@ white concrete powder
 
 yellow concrete powder
 
-**Image before Texture Changes:**
+# Blocks before Random Texture Changes:
 ![image](https://github.com/DrBotz/xRotation/assets/99992836/3d0b78b6-511c-4675-ab1c-099bbbd0b0a0)
 
+# Blocks after Random Texture Changes:
+![image](https://github.com/DrBotz/xRotation/assets/99992836/530f4c96-2f67-498a-b6f7-7030611bf107)
