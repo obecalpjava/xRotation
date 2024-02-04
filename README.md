@@ -11,32 +11,59 @@ The blocks this pack affects are:
 bedrock
 
 black concrete powder
+
 blue concrete powder
+
 brown concrete powder
+
 cyan concrete powder
+
 deepslate
+
 dirt
+
 dirt path
+
 grass block
+
 gray concrete powder
+
 green concrete powder
+
 infested deepslate
+
 infested stone
+
 light blue concrete powder
+
 light gray concrete powder
+
 lime concrete powder
+
 magenta concrete powder
+
 mycelium
+
 netherrack
+
 orange concrete powder
+
 pink concrete powder
+
 podzol
+
 purple concrete powder
+
 red concrete powder
+
 red sand
+
 rooted dirt
+
 sand
+
 sculk
+
 stone
 white concrete powder
 yellow concrete powder
