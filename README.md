@@ -65,5 +65,11 @@ sand
 sculk
 
 stone
+
 white concrete powder
+
 yellow concrete powder
+
+**Image before Texture Changes:**
+![image](https://github.com/DrBotz/xRotation/assets/99992836/3d0b78b6-511c-4675-ab1c-099bbbd0b0a0)
+
